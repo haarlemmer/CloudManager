@@ -1,0 +1,7 @@
+{
+    "aliyun": {
+        "ModuleName": "Aliyun ECS",
+        "APIFile": "aliyun",
+        "APIClass": "AliyunEcs"
+    }
+}
